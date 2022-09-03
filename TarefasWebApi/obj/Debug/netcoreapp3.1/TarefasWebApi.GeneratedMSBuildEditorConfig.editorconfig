@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TarefasWebApi
+build_property.ProjectDir = C:\MAMP\htdocs\TarefasWebApi-ASPNET.CORE-1.0\TarefasWebApi\
